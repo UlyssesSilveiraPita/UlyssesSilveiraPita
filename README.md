@@ -49,19 +49,43 @@ Desenvolvedor Unity apaixonado por jogos crio desde o conceito visual até a ló
 />
 <img 
     align="left" 
-    alt="C#"
-    title="C#" 
+    alt="Unity"
+    title="Unity" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
 />
 <img 
     align="left" 
-    alt="C#"
-    title="C#" 
+    alt="JavaScript#"
+    title="JavaScript#" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML" 
+    title="HTML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" 
 />
 <img 
     align="left" 
@@ -79,7 +103,6 @@ Desenvolvedor Unity apaixonado por jogos crio desde o conceito visual até a ló
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<br/>
 <br/>
 
 ### 📊 Estatísticas
