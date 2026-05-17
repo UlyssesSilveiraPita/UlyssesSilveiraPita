@@ -1,8 +1,14 @@
 # 👩🏻‍💻 Ulysses Pita
 
-**`Dev Unity/c#`**
+**`Desenvolvedor C#/.NET | Backend Developer | Unity Game Developer`**
 
-Desenvolvedor Unity apaixonado por jogos crio desde o conceito visual até a lógica do gameplay. Em constante evolução, compartilho meu processo de aprendizado e criação no canal do YouTube da minha loja UniversoGeeky. Desenvolvedor Unity em início de carreira, com conhecimento sólido em C#, criação de protótipos e mecânicas de jogos, pixel art e desenvolvimento completo de jogos 2D/3D. Busco aplicar minhas habilidades, crescer profissionalmente e contribuir para projetos inovadores na área de games. "[Ulysses Pita](https://www.youtube.com/@universogeeky)", onde ensino a criar jogos e projetos.
+Desenvolvedor de Software e Game Developer com foco em C#, .NET e Unity, apaixonado por arquitetura de sistemas, gameplay programming e desenvolvimento de soluções interativas.
+
+Possuo experiência prática na criação de sistemas para jogos 2D/3D, incluindo IA de inimigos, movimentação, combate, interfaces, save systems e arquitetura modular, além do desenvolvimento de APIs e aplicações backend utilizando .NET.
+
+Atualmente curso Análise e Desenvolvimento de Sistemas e continuo aprofundando meus conhecimentos em engenharia de software, boas práticas, Clean Architecture, bancos de dados, Docker e desenvolvimento de aplicações escaláveis.
+
+Busco evoluir constantemente como desenvolvedor, unindo criatividade, lógica e tecnologia para criar projetos robustos, performáticos e de alta qualidade. "[Ulysses Pita](https://www.youtube.com/@universogeeky)", onde ensino a criar jogos e projetos.
 
 <p align="left">
     <a href="https://www.youtube.com/@universogeeky?sub_confirmation=1">
