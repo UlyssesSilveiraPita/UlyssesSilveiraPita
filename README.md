@@ -8,7 +8,7 @@ Possuo experiência prática na criação de sistemas para jogos 2D/3D, incluind
 
 Atualmente curso Análise e Desenvolvimento de Sistemas e continuo aprofundando meus conhecimentos em engenharia de software, boas práticas, Clean Architecture, bancos de dados, Docker e desenvolvimento de aplicações escaláveis.
 
-Busco evoluir constantemente como desenvolvedor, unindo criatividade, lógica e tecnologia para criar projetos robustos, performáticos e de alta qualidade. "[Ulysses Pita](https://www.youtube.com/@universogeeky)", onde ensino a criar jogos e projetos.
+Busco evoluir constantemente como desenvolvedor, unindo criatividade, lógica e tecnologia para criar projetos robustos, performáticos e de alta qualidade. "[Ulysses Pita](https://ulyssessilveirapita.github.io/portfolio/index.html)", onde ensino a criar jogos e projetos.
 
 <p align="left">
     <a href="https://www.youtube.com/@universogeeky?sub_confirmation=1">
